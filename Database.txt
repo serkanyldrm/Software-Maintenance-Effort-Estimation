@@ -1,0 +1,2 @@
+Kullanılan veri seti linki : https://github.com/clowee/The-Technical-Debt-Dataset
+Bu veri seti işlenmiş ve farklı bir haliyle projede kullanılmıştır.
